@@ -89,11 +89,18 @@ ul.nav{
     cursor: pointer;
 
 }
-.button :hover,
-.button :focus{
+.one-button :hover,
+.one-button :focus{
     background-color: #404BBF ;
 }
 
+.strategy{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 .team{
     background-color:
