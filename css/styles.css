@@ -16,7 +16,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#434455;
 }
 .nav :hover,
 .nav :focus{
@@ -59,7 +59,7 @@ a {
 .web {
     font-family: "Raleway", sans-serif;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 18px;
     line-height:  1.17;
     display: flex;
@@ -78,7 +78,7 @@ a {
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color:#2e2f42;
 }
 .one-button {
     color: #FFFFFF;
