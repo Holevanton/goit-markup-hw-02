@@ -30,16 +30,12 @@ ul.nav{
     letter-spacing: 0.02em;
     color:#434455;
 }
-ul.contakt :hover, 
-ul.contakt :focus{
+.contakt :hover, 
+.contakt :focus{
     color:#404bbf;
 }
 .section-kopf {
     background-color: #2E2F42;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
 }
 
 .fon-section{
@@ -52,7 +48,7 @@ ul.contakt :focus{
     background: #F4F4FD;
 }
 
-.tema {
+.topic {
     letter-spacing: 0.02em;
     line-height: 1.07;
     font-size: 56px;
@@ -93,8 +89,8 @@ ul.contakt :focus{
     cursor: pointer;
 
 }
-.one-button :hover,
-.one-button :focus{
+.button :hover,
+.button :focus{
     background-color: #404BBF ;
 }
 
