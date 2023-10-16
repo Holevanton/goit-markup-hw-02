@@ -53,8 +53,9 @@ ul.nav{
     line-height: 1.07;
     font-size: 56px;
     color: #FFFFFF;
+    text-align: center;
 }
-.web {
+.logo-web {
     font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -66,7 +67,7 @@ ul.nav{
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.studio {
+.logo-studio {
     font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
