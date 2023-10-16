@@ -53,8 +53,10 @@ ul.contakt :focus{
 }
 
 .tema {
-    color: 
-    #FFFFFF;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    font-size: 56px;
+    color: #FFFFFF;
 }
 .web {
     font-family: "Raleway", sans-serif;
@@ -83,8 +85,20 @@ ul.contakt :focus{
 .one-button {
     color: #FFFFFF;
     background-color: #4D5AE5;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 500;
     border-radius: 4px;
+    cursor: pointer;
+
 }
+.one-button :hover,
+.one-button :focus{
+    background-color: #404BBF ;
+}
+
+
 .team{
     background-color:
     #F4F4FD ;
