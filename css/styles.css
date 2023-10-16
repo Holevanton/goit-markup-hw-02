@@ -10,6 +10,23 @@ ul{
 a {
     text-decoration: none;
 }
+.kontakt{
+    font-style: normal;
+}
+.mail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.kontakt :hover, 
+.kontakt :focus{
+    color:#404bbf;
+}
+
+
+
+
 .section-kopf {
     background-color: #2E2F42;
     font-size: 56px;
@@ -45,7 +62,7 @@ a {
     color: #4D5AE5;
 }
 .logo-two {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -73,7 +90,7 @@ a {
     color: #E7E9FC;
 }
 .page {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -88,7 +105,7 @@ a {
     flex-grow: 0;
 }
 .page-one {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -113,7 +130,7 @@ a {
 
 
 .logo-three {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -125,7 +142,7 @@ a {
     color: #4D5AE5;
 }
 .logo-four {
-    font-family: 'Raleway';
+    font-family: "Raleway";
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -165,12 +182,11 @@ flex-grow: 0;
     background-color: #E7E9FC;
     border: radius 4px;
 }
-.foter-next {
-    color:#2E2F42 ;
-    background: #2E2F42;
+.foter-text {
+    color:#2E2F42;
 }
 .text-w {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -185,7 +201,7 @@ flex-grow: 0;
     flex-grow: 0;
 }
 .page-two {
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -200,7 +216,7 @@ flex-grow: 0;
     flex-grow: 0;
 }
 .text-two {
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
