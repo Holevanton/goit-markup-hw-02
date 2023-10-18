@@ -22,15 +22,6 @@ ul{
     color: #4D5AE5;
 }
 .studio {
-    font-family: "Raleway";
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
     color:#2e2f42;
 }
 .menu-link link {
@@ -47,7 +38,7 @@ ul{
 .page-address{
     font-style: normal;
 }
-.menu-contact-list-list{
+.menu-contact-list-item{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
