@@ -103,10 +103,8 @@ ul{
     background-color: #FFFFFF;
 }
 
-.menu-team{
-    background-color:#F4F4FD;
-}
-.menu-team,
+
+
 .name-team-text{
     font-weight: 500;
     font-size: 20px;
@@ -114,6 +112,19 @@ ul{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.menu-team-text{
+    font-size: 16px;
+    line-height: 1.5;
+    color:#434455;
+}
+
+
+
+
+
+
+
+
 
 .menu-footer {
     background-color:#2E2F42 ;
