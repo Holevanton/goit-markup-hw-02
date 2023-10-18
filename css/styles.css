@@ -44,8 +44,7 @@ ul{
 .menu-link:focus{
     color: #404bbf;
 }
-
-.menu-list-.page-address{
+.page-address{
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
@@ -53,8 +52,8 @@ ul{
     letter-spacing: 0.02em;
     color:#434455;
 }
-.menu-contact-list-item:hover, 
-.menu-contact-list-item:focus{
+.menu-contact-list-list:hover, 
+.menu-contact-list-list:focus{
     color:#404bbf;
 }
 .hero-section {                                                                 
