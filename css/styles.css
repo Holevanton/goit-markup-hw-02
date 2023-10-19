@@ -6,7 +6,7 @@ body{
 ul{
     list-style-type: none;
 }
-.link {
+a {
     text-decoration: none;
 }
 
