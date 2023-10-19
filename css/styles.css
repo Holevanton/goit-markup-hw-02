@@ -73,23 +73,11 @@ ul{
 .one-button:focus{
     background-color: #404BBF ;
 }
-.menu-functions-function{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.menu-functions-function-text{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455; 
-}
+
+
 .menu-pictures{
     background-color: #F4F4FD
 }
-.menu-pictures,
 .menu-pictures-text{
     font-size: 36px;
     line-height: 1.11;
@@ -98,12 +86,9 @@ ul{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.menu-pictures,
 .model-pictures-item{
     background-color: #FFFFFF;
 }
-
-
 
 .name-team-text{
     font-weight: 500;
@@ -115,6 +100,7 @@ ul{
 .menu-team-text{
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color:#434455;
 }
 
