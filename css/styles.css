@@ -10,9 +10,12 @@ a {
     text-decoration: none;
 }
 
-
-
-
+.page-header{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
+    background: var(--WHITE, #FFF);
+}
 
 
 .web-logo {
@@ -22,8 +25,8 @@ a {
     font-size: 18px;
     line-height: 1.17;
     display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
+    align-items: flex-start;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
@@ -71,23 +74,28 @@ a {
     text-align: center;
 }
 .one-button {
+    font-family: inherit;
     color: #FFFFFF;
     background-color: #4D5AE5;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     line-height: 1.5;
     font-size: 16px;
     font-weight: 500;
-    border-radius: 4px;
     cursor: pointer;
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .one-button:hover,
 .one-button:focus{
     background-color: #404BBF ;
 }
 
-
 .menu-functions{
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 .menu-functions-item{
     background-color: #FFFFFF;
@@ -107,6 +115,15 @@ a {
 }
 .menu-team-item{
     background-color: #FFFFFF;
+    display: inline-flex;
+    padding-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    border-radius: 0px 0px 4px 4px;
+    background: var(--WHITE, #FFF);
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .name-team-text{
     font-weight: 500;
@@ -130,7 +147,7 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color:#4d5ae5;
 }
