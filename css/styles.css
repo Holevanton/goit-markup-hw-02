@@ -9,6 +9,9 @@ ul{
 .link {
     text-decoration: none;
 }
+
+
+             <!-- PAGE HEADER-->
 .web-logo {
     font-family: "Raleway", sans-serif;
     font-style: normal;
@@ -48,6 +51,12 @@ ul{
 .menu-contact-list-list:focus{
     color:#404bbf;
 }
+
+
+
+
+             <!-- HERO SECTION-->
+
 .hero-section {                                                                 
     background-color: #2E2F42;
 }
@@ -67,7 +76,6 @@ ul{
     font-weight: 500;
     border-radius: 4px;
     cursor: pointer;
-
 }
 .one-button:hover,
 .one-button:focus{
@@ -75,8 +83,17 @@ ul{
 }
 
 
-.menu-pictures{
+           <!-- OUR ADVANTAGES-->
+.menu-functions{
     background-color: #F4F4FD
+}
+.menu-functions-item{
+    background-color: #FFFFFF;
+}
+
+      <!-- OUR TEAM SECTION,OUR PORTFOLIO-->
+.menu-team{
+    background-color: #F4F4FD;
 }
 .menu-pictures-text{
     font-size: 36px;
@@ -85,17 +102,6 @@ ul{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-}
-.model-pictures-item{
-    background-color: #FFFFFF;
-}
-
-
-
-
-
-.menu-team{
-    background-color: #F4F4FD;
 }
 .menu-team-item{
     background-color: #FFFFFF;
@@ -115,12 +121,7 @@ ul{
 }
 
 
-
-
-
-
-
-
+              <!--FOOTER-->
 .menu-footer {
     background-color:#2E2F42 ;
 }
