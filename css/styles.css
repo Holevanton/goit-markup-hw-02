@@ -17,7 +17,6 @@ a {
 
 .web-logo {
     font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -69,14 +68,13 @@ a {
     text-align: center;
 }
 .one-button {
-    font-family: inherit;
-    color: #FFFFFF;
     background-color: #4D5AE5;
-    letter-spacing: 0.04em;
-    line-height: 1.5;
-    font-size: 16px;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
-    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff
 }
 .one-button:hover,
 .one-button:focus{
